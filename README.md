@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## Appunti e spunti
 
-You can use the [editor on GitHub](https://github.com/macerie/spunti/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Una sorta di _bloc notes_ online, dove conservo appunti sparsi in materia di agricoltura, vivaismo ed informatica. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
 ```markdown
 Syntax highlighted code block
