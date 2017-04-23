@@ -1,5 +1,3 @@
-# Alpine Linux ed LXC
-
 [Alpine](http://www.alpinelinux.org) è una distribuzione GNU/Linux giovane, derivata (sapientemente) da Gentoo, che sta prendendo 
 sempre più piede in seno al progetto Docker, per il quale è ottimizzata. 
 
